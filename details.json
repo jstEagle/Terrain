@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "title": "Terrain",
+  "description": "A Java terrain generation and optimization project.",
+  "tags": [
+    "Java",
+    "Terrain Generation",
+    "Optimization"
+  ],
+  "featured": false,
+  "order": 285,
+  "links": {
+    "repo": "https://github.com/jstEagle/Terrain"
+  },
+  "images": []
+}
